@@ -1,4 +1,7 @@
 //File System Module allow work create, read, delete file from OS system
+//fs mean file system
+//this use when the website need to read file in the computer system
+//like github
 const fs = require('fs');
 //create a file
 // fs.writeFile('example.txt',"this is an example",'utf8',(err)=>{
